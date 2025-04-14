@@ -22,6 +22,25 @@ seriousness) of working in a regulated environment with legal standards.
 I’m available to start immediately, hope to hear from you,
 ** TODO Add blurb at start describing what I can offer and what I am seeking
 
+Hello!
+
+I’m currently looking for a career change out of IT, out of the office, and looking at getting into the electrical field, I'm on the hunt for an opportunity as a mature aged apprentice or a TA.
+
+As part of the career change effort I’ve completed a Certificate II in Electrotechnology. I'm 35 years old, I have a QLD Manual Driver’s License, a White Card, a car, live on the Sunshine Coast in Tewantin, work well in team environments and am quick to learn.
+
+If you know of anyone who could put me to use as an apprentice or electrical TA please forward my details along and I'll shout you a carton or bottle of whatever you'd like.
+
+Cheers!
+
+----- break -------------------------------------------------------------------------------------
+
+Recently I held a position as a software developer at a tier 1 electrical contractor working along side electricians to develop solar power energy usage monitoring and lighting control. 
+
+In the past I’ve worked as a communications tech at a company called Ezi Communications where I was working along side electricians & other tradespeople — running data cabling in drop ceilings along catenary wire, using snakes to fish out paths through conduit, rough-ins and fit-outs for new timber frame rooms at the office, working with hammer drills for various fixings, conduit and antenna mounts — and enjoyed it a lot.
+
+Less directly related to practical trade skills but perhaps still relevant; I also worked at an electrical manufacturer who designed and built high voltage plugs for the mining industry, which exposed me to electrical concepts and the fun (and seriousness) of working in a regulated environment with legal standards.
+
+
 ** TODO Add images of TAFE work and Blackflag work
 
 ** DONE Host on github
