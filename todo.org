@@ -1,0 +1,32 @@
+* TODO make website for electrical apprenticeship
+** DONE Create html file
+** DONE Add tailwind css
+** DONE Find resume
+** DONE Enter resume details
+** TODO Take photo of self
+** DONE Try and find electrical cover letter
+As part of the career change effort I’ve completed a Certificate II in
+Electrotechnology. I have a QLD Manual Driver’s License, a White Card, a car, live on
+the Sunshine Coast in Tewantin, work well in team environments and am quick to
+learn.
+In the past I’ve worked as a communications tech at a company called Ezi
+Communications where I was working along side electricians & other tradespeople —
+running data cabling in drop ceilings along catenary wire, using snakes to fish out
+paths through conduit, rough-ins and fit-outs for new timber frame rooms at the
+office, working with hammer drills for various fixings, conduit and antenna mounts —
+and enjoyed it a lot.
+Less directly related to practical trade skills but perhaps still relevant; I also worked
+at an electrical manufacturer who designed and built high voltage plugs for the
+mining industry, which exposed me to electrical concepts and the fun (and
+seriousness) of working in a regulated environment with legal standards.
+I’m available to start immediately, hope to hear from you,
+** TODO Add blurb at start describing what I can offer and what I am seeking
+
+** TODO Add images of TAFE work and Blackflag work
+
+** DONE Host on github
+* TODO Create QR code flyer
+** DONE Create QR Code
+** TODO Create flyer
+* TODO Get list of electrical stores
+* TODO Drive to electrical stores and ask to put up flyer
